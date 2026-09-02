@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: r123mahajan/frontend:latest
+          image: imanasipatilz/easycrud1-jenkins:frontend
           ports:
             - containerPort: 80
